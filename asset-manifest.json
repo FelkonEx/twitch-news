@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/twitch-news/static/css/main.c9b721ec.css",
-    "main.js": "/twitch-news/static/js/main.f77cffa8.js",
+    "main.js": "/twitch-news/static/js/main.b464068d.js",
     "index.html": "/twitch-news/index.html",
     "main.c9b721ec.css.map": "/twitch-news/static/css/main.c9b721ec.css.map",
-    "main.f77cffa8.js.map": "/twitch-news/static/js/main.f77cffa8.js.map"
+    "main.b464068d.js.map": "/twitch-news/static/js/main.b464068d.js.map"
   },
   "entrypoints": [
     "static/css/main.c9b721ec.css",
-    "static/js/main.f77cffa8.js"
+    "static/js/main.b464068d.js"
   ]
 }
